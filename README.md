@@ -2,5 +2,7 @@
 ## FASE 1
 
 [EXAMEN DIAGNOSTICO](https://github.com/LuisNavarro22/Mineria_de_datos/blob/main/Examen_1866581.pdf)
+
 [MAPA MENTAL](https://github.com/LuisNavarro22/Mineria_de_datos/blob/main/MapaMental_1_1866581.pdf)
+
 [Ejercicio Base De Datos](https://github.com/OviedoMarco/Mineria_de_datos/blob/main/Equipo_9-Ejercicio%20base%20de%20datos.pptx.pdf)
