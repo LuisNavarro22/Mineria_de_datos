@@ -9,7 +9,7 @@
 
 [EJERCICIOS PHYTON 1](https://github.com/LuisNavarro22/Mineria_de_datos/blob/main/EjerciciosPhyton1.ipynb)
 
-[PRACTICA 1 LIMPIEZA DE BASE DE DATOS] (https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09 .ipynb)
+[PRACTICA 1 LIMPIEZA DE BASE DE DATOS](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Ej_Limpieza_Equipo09%20.ipynb)
 
 [PRIMER AVANCE DEL PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Avance1_PIA_Equipo09.ipynb)
 
