@@ -13,4 +13,6 @@
 
 [PRIMER AVANCE DEL PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Avance1_PIA_Equipo09.ipynb)
 
+[K-MEDIAS](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Presentacion_k-Means_Equipo09.pptx.pdf)
+
 
