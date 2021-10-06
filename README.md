@@ -15,4 +15,6 @@
 
 [K-MEDIAS](https://github.com/OviedoMarco/Mineria_de_datos/blob/Proyectos/Presentacion_k-Means_Equipo09.pptx.pdf)
 
+[PRACTICA 2](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Visualizacion_Equipo09.ipynb)
 
+[SEGUNDO AVANCE PIA](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/AvancePIA_II_Grupo002_Equipo09.ipynb)
