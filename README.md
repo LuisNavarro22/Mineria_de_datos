@@ -26,3 +26,5 @@
 [TECNICAS Y VALIDACION](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/Tecnicas_PIA_II_Grupo002_Equipo09.ipynb)
 
 [NoteBook Final](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/NoteBook_Grupo002_Equipo09.ipynb)
+
+[PIA POSTER](https://github.com/OviedoMarco/Mineria_de_datos/blob/DataSets/POSTER.pdf)
